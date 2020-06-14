@@ -1,4 +1,4 @@
-Which of the following are operators, and which are values?
+1. Which of the following are operators, and which are values?
 -----------------------------------------------------------
 * - operator
 'hello' - value
@@ -8,7 +8,7 @@ Which of the following are operators, and which are values?
 + - operator
 5 - value
 
-Which of the following is a variable, and which is a string?
+2. Which of the following is a variable, and which is a string?
 ------------------------------------------------------------
 spam - variable
 'spam' - string
